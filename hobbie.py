@@ -1,1 +1,1 @@
-likes = ['meat', 'playing', 'barking ']
+likes = ["travelling", "going to the beach", "music", 'meat', 'playing', 'barking ]

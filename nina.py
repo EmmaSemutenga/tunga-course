@@ -1,0 +1,1 @@
+loves = ["music", "travelling", "coding"]
